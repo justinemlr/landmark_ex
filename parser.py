@@ -27,13 +27,3 @@ class Parser:
             final_list[0] = product
             increment += 1
         return final_list
-
-
-
-# def main():
-#     p = Parser
-#     p.parse(p, "product.json")
-
-
-# if __name__ == '__main__':
-#     main()
